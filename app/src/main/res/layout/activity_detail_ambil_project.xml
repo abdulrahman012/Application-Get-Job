@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.drawerlayout.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:id="@+id/drawer_layout"
+    android:background="@drawable/bg_onboarding2"
+    tools:context=".Detail_AmbilProject">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/linearLayout01"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginVertical="20dp"
+            android:layout_marginHorizontal="15dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+            <ImageView
+                android:id="@+id/ic_kembali_ambilproject"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:src="@drawable/ic_kembali" />
+
+            <TextView
+                android:id="@+id/TVprofil"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/ic_nav_menu"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="3dp"
+                android:fontFamily="@font/carter_one"
+                android:text="Ambil Project"
+                android:textColor="@color/color2"
+                android:textSize="20dp" />
+
+        </LinearLayout>
+
+        <RelativeLayout
+            android:id="@+id/constraintLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="15dp"
+            android:background="@drawable/splash"
+            android:orientation="vertical"
+            android:gravity="center_horizontal"
+            android:paddingHorizontal="15dp"
+            android:paddingVertical="12dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+
+            <TextView
+                android:id="@+id/TVinfo"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/poppins_bold"
+                android:text="*Silahkan Ambil Project Anda!"
+                android:textAlignment="center"
+                android:textSize="11sp" />
+
+            <TextView
+                android:id="@+id/TVP_nama_project"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/TVinfo"
+                android:layout_marginTop="20dp"
+                android:background="@drawable/edit_text_bg"
+                android:drawableLeft="@drawable/ic_nama_project"
+                android:drawablePadding="15dp"
+                android:fontFamily="@font/poppins_bold"
+                android:hint="Nama Project"
+                android:paddingLeft="20dp"
+                android:paddingTop="12dp"
+                android:paddingBottom="8dp"
+                android:textColor="@color/black"
+                android:textSize="14sp" />
+
+            <TextView
+                android:id="@+id/TVP_kategori"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/TVP_nama_project"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="20dp"
+                android:background="@drawable/edit_text_bg"
+                android:drawableLeft="@drawable/ic_kategori"
+                android:drawablePadding="15dp"
+                android:fontFamily="@font/poppins_bold"
+                android:hint="Kategori"
+                android:maxLength="25"
+                android:paddingLeft="20dp"
+                android:paddingTop="12dp"
+                android:paddingBottom="8dp"
+                android:textColor="@color/black"
+                android:textSize="14sp" />
+
+            <TextView
+                android:id="@+id/TVP_deadline"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/TVP_kategori"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="20dp"
+                android:background="@drawable/edit_text_bg"
+                android:drawableLeft="@drawable/ic_kategori"
+                android:drawablePadding="15dp"
+                android:fontFamily="@font/poppins_bold"
+                android:hint="Deadline"
+                android:maxLength="8"
+                android:paddingLeft="20dp"
+                android:paddingTop="12dp"
+                android:paddingBottom="8dp"
+                android:textColor="@color/black"
+                android:textSize="14sp" />
+
+            <EditText
+                android:id="@+id/TVP_Deskripsi"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:layout_below="@+id/TVP_kategori"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="80dp"
+                android:paddingTop="15dp"
+                android:background="@drawable/edit_text_bg"
+                android:paddingBottom="50dp"
+                android:drawableLeft="@drawable/ic_deskripsi"
+                android:hint="Deskripsi Project"
+                android:drawablePadding="15dp"
+                android:fontFamily="@font/poppins_bold"
+                android:paddingLeft="20dp"
+
+                android:textColor="@color/black"
+                android:textSize="14sp" />
+
+
+
+            <Button
+                android:id="@+id/BTNambilproject"
+                android:layout_width="match_parent"
+                android:layout_height="42dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="400dp"
+                android:background="@drawable/button_tambah_kontak_bg"
+                android:fontFamily="@font/carter_one"
+                android:text="Ambil Project"
+                android:textAllCaps="false"
+                android:textSize="14sp"
+                android:textStyle="bold" />
+
+        </RelativeLayout>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</androidx.drawerlayout.widget.DrawerLayout>

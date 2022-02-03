@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Application_GetJob</string>
+
+    //Headings
+    <string name="heading_one">Kenali Passionmu dan Skillmu</string>
+    <string name="heading_two">Kenali Bakat dan Minatmu</string>
+    <string name="heading_three">Freelancer Terpercaya</string>
+    <string name="heading_fourth">Kenali Perusahaanmu</string>
+
+    //Description
+    <string name="desc_one">Lakukan apa yang kamu cintai, bekerjalah dengan penuh semangat sesuai dengan passion dan Skillmu</string>
+    <string name="desc_two">Minat dan bakat nantinya akan menjadi life skill. Minat dan bakat itu suatu keinginan yang tertanam dalam diri seseoarang untuk melakukan sesuatu mengasah bakat secara optimal guna menunjang prestasi dan kepuasaan hati seseoarang</string>
+    <string name="desc_three">Dengan aplikasi ini, memudahkan para pekerja freelancer dalam mengumpulkan informasi, mendaftar dan dapat mencari pekerjaan sesuai dengan kebutuhan pelamar pekerjaan yang dapat diakses melalui smartphone </string>
+    <string name="desc_fourth">Segera untuk mendaftarkan diri kalian untuk mendapatkan perusahaan yang kalian inginkan dan menjadi bagian perusahaan</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="long_lorem_ipsun">
+        "Get's Job adalah aplikasi yang dapatr membantu freelancer dalama
+        mengumpulkan informasi dan mengambil pekerjaan yang sesuai dengan keahliannya."
+    </string>
+    <string name="title_activity_login_admin">LoginAdmin</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+</resources>

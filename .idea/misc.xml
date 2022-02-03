@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/SEMESTER 4/HASIL UTS APLIKASI MOBILE/Application_GetJob/app/src/main/res/drawable/bg_gradient_soft.xml" value="0.1" />
+        <entry key="..\:/SEMESTER 4/HASIL UTS APLIKASI MOBILE/Application_GetJob/app/src/main/res/drawable/ic_insert_drive.xml" value="0.1" />
+        <entry key="..\:/SEMESTER 4/HASIL UTS APLIKASI MOBILE/Application_GetJob/app/src/main/res/drawable/ic_mic.xml" value="0.1" />
+        <entry key="..\:/SEMESTER 4/HASIL UTS APLIKASI MOBILE/Application_GetJob/app/src/main/res/drawable/ic_photo_camera.xml" value="0.1" />
+        <entry key="..\:/SEMESTER 4/HASIL UTS APLIKASI MOBILE/Application_GetJob/app/src/main/res/drawable/ic_thumb_up.xml" value="0.1" />
+        <entry key="..\:/SEMESTER 4/HASIL UTS APLIKASI MOBILE/Application_GetJob/app/src/main/res/layout/activity_chat.xml" value="0.17760416666666667" />
+        <entry key="..\:/SEMESTER 4/HASIL UTS APLIKASI MOBILE/Application_GetJob/app/src/main/res/layout/activity_detail_ambil_project.xml" value="0.2" />
+        <entry key="..\:/SEMESTER 4/HASIL UTS APLIKASI MOBILE/Application_GetJob/app/src/main/res/layout/activity_detail_ambil_project_digital_marketing.xml" value="0.17760416666666667" />
+        <entry key="..\:/SEMESTER 4/HASIL UTS APLIKASI MOBILE/Application_GetJob/app/src/main/res/layout/activity_detail_ambil_project_private_tutoring.xml" value="0.17760416666666667" />
+        <entry key="..\:/SEMESTER 4/HASIL UTS APLIKASI MOBILE/Application_GetJob/app/src/main/res/layout/activity_detail_ambil_project_video_animation.xml" value="0.17760416666666667" />
+        <entry key="..\:/SEMESTER 4/HASIL UTS APLIKASI MOBILE/Application_GetJob/app/src/main/res/layout/activity_detail_ambil_project_web_mobile.xml" value="0.17760416666666667" />
+        <entry key="..\:/SEMESTER 4/HASIL UTS APLIKASI MOBILE/Application_GetJob/app/src/main/res/layout/activity_detail_ambil_project_writing_content.xml" value="0.17760416666666667" />
+        <entry key="..\:/SEMESTER 4/HASIL UTS APLIKASI MOBILE/Application_GetJob/app/src/main/res/layout/activity_detail_project.xml" value="0.264" />
+        <entry key="..\:/SEMESTER 4/HASIL UTS APLIKASI MOBILE/Application_GetJob/app/src/main/res/layout/activity_kategori_digital_marketing.xml" value="0.17760416666666667" />
+        <entry key="..\:/SEMESTER 4/HASIL UTS APLIKASI MOBILE/Application_GetJob/app/src/main/res/layout/activity_kategori_graphic_desain.xml" value="0.17760416666666667" />
+        <entry key="..\:/SEMESTER 4/HASIL UTS APLIKASI MOBILE/Application_GetJob/app/src/main/res/layout/activity_kategori_private_tutoring.xml" value="0.17760416666666667" />
+        <entry key="..\:/SEMESTER 4/HASIL UTS APLIKASI MOBILE/Application_GetJob/app/src/main/res/layout/activity_kategori_video_animation.xml" value="0.17760416666666667" />
+        <entry key="..\:/SEMESTER 4/HASIL UTS APLIKASI MOBILE/Application_GetJob/app/src/main/res/layout/activity_kategori_web_mobile.xml" value="0.17760416666666667" />
+        <entry key="..\:/SEMESTER 4/HASIL UTS APLIKASI MOBILE/Application_GetJob/app/src/main/res/layout/activity_kategori_writing_content.xml" value="0.17760416666666667" />
+        <entry key="..\:/SEMESTER 4/HASIL UTS APLIKASI MOBILE/Application_GetJob/app/src/main/res/layout/activity_mainscreen.xml" value="0.17760416666666667" />
+        <entry key="..\:/SEMESTER 4/HASIL UTS APLIKASI MOBILE/Application_GetJob/app/src/main/res/layout/activity_my_project.xml" value="0.259375" />
+        <entry key="..\:/SEMESTER 4/HASIL UTS APLIKASI MOBILE/Application_GetJob/app/src/main/res/menu/button_navi.xml" value="0.17760416666666667" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Application_GetJob/app/src/main/res/drawable-v24/background_btn.xml" value="0.175" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Application_GetJob/app/src/main/res/drawable-v24/bg_fitur_admin.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Application_GetJob/app/src/main/res/drawable-v24/bg_gradasi.xml" value="0.14074074074074075" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Application_GetJob/app/src/main/res/drawable-v24/bg_ic_gambar.xml" value="0.15208333333333332" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Application_GetJob/app/src/main/res/drawable-v24/bg_ic_teleponstaff1.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Application_GetJob/app/src/main/res/drawable-v24/bg_radius.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Application_GetJob/app/src/main/res/drawable-v24/btn_update.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Application_GetJob/app/src/main/res/drawable-v24/custom_input.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Application_GetJob/app/src/main/res/drawable-v24/email.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Application_GetJob/app/src/main/res/drawable-v24/form.xml" value="0.14074074074074075" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Application_GetJob/app/src/main/res/drawable-v24/gradasi.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Application_GetJob/app/src/main/res/drawable-v24/ic_add.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Application_GetJob/app/src/main/res/drawable-v24/ic_baseline_arrow_back_ios_24.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Application_GetJob/app/src/main/res/drawable-v24/ic_baseline_edit_24.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Application_GetJob/app/src/main/res/drawable-v24/ic_baseline_report_24.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Application_GetJob/app/src/main/res/drawable-v24/ic_baseline_source_24.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Application_GetJob/app/src/main/res/drawable-v24/ic_chat.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Application_GetJob/app/src/main/res/drawable-v24/ic_foto.xml" value="0.15208333333333332" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Application_GetJob/app/src/main/res/drawable-v24/ic_hapus.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Application_GetJob/app/src/main/res/drawable-v24/ic_home.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Application_GetJob/app/src/main/res/drawable-v24/ic_kembali.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Application_GetJob/app/src/main/res/drawable-v24/ic_lokasi_barang.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Application_GetJob/app/src/main/res/drawable-v24/ic_nama_barang.xml" value="0.15208333333333332" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Application_GetJob/app/src/main/res/drawable-v24/ic_profile.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Application_GetJob/app/src/main/res/drawable-v24/ic_ruangan.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Application_GetJob/app/src/main/res/drawable-v24/ic_stok_barang.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Application_GetJob/app/src/main/res/drawable-v24/ic_tambah.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Application_GetJob/app/src/main/res/drawable-v24/logo_cari.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Application_GetJob/app/src/main/res/drawable-v24/logo_email.xml" value="0.24322916666666666" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Application_GetJob/app/src/main/res/drawable-v24/logo_user.xml" value="0.24322916666666666" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Application_GetJob/app/src/main/res/drawable-v24/selector.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Application_GetJob/app/src/main/res/drawable-v24/splash.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Application_GetJob/app/src/main/res/drawable-v24/umur.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Application_GetJob/app/src/main/res/drawable-v24/user.xml" value="0.14074074074074075" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Application_GetJob/app/src/main/res/drawable/ic_nama_project.xml" value="0.14895833333333333" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Application_GetJob/app/src/main/res/drawable/ic_waktu.xml" value="0.14895833333333333" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Application_GetJob/app/src/main/res/font/carter_one.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Application_GetJob/app/src/main/res/font/poppins_bold.xml" value="0.27395833333333336" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Application_GetJob/app/src/main/res/layout-w1240dp/activity_login_admin.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Application_GetJob/app/src/main/res/layout/activity_about.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Application_GetJob/app/src/main/res/layout/activity_add.xml" value="0.136" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Application_GetJob/app/src/main/res/layout/activity_ambil_project.xml" value="0.1557377049180328" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Application_GetJob/app/src/main/res/layout/activity_clv_pengambilan.xml" value="0.259375" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Application_GetJob/app/src/main/res/layout/activity_clv_project.xml" value="0.1328125" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Application_GetJob/app/src/main/res/layout/activity_daftar.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Application_GetJob/app/src/main/res/layout/activity_detail_project.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Application_GetJob/app/src/main/res/layout/activity_detail_project_diambil.xml" value="0.264" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Application_GetJob/app/src/main/res/layout/activity_edit_profil.xml" value="0.176" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Application_GetJob/app/src/main/res/layout/activity_home.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Application_GetJob/app/src/main/res/layout/activity_home2.xml" value="0.259375" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Application_GetJob/app/src/main/res/layout/activity_kategori_graphic_desain.xml" value="0.259375" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Application_GetJob/app/src/main/res/layout/activity_list_project_diambil.xml" value="0.259375" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Application_GetJob/app/src/main/res/layout/activity_login.xml" value="0.15083798882681565" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Application_GetJob/app/src/main/res/layout/activity_login_admin.xml" value="0.13385416666666666" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Application_GetJob/app/src/main/res/layout/activity_login_admin2.xml" value="0.13385416666666666" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Application_GetJob/app/src/main/res/layout/activity_main.xml" value="0.176" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Application_GetJob/app/src/main/res/layout/activity_mainscreen.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Application_GetJob/app/src/main/res/layout/activity_my_project.xml" value="0.16785714285714284" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Application_GetJob/app/src/main/res/layout/activity_pengambilan_project.xml" value="0.2" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Application_GetJob/app/src/main/res/layout/activity_profil_user.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Application_GetJob/app/src/main/res/layout/activity_splash_screen.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Application_GetJob/app/src/main/res/layout/activity_tambah_project.xml" value="0.264" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Application_GetJob/app/src/main/res/layout/list_project.xml" value="0.12162162162162163" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Application_GetJob/app/src/main/res/layout/list_project_diambil.xml" value="0.259375" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Application_GetJob/app/src/main/res/layout/slider_layout.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Application_GetJob/app/src/main/res/layout/viewholder_news.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Application_GetJob/app/src/main/res/menu/button_navi.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Application_GetJob/app/src/main/res/menu/delete.xml" value="0.1359375" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Application_GetJob/app/src/main/res/menu/main.xml" value="0.259375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
